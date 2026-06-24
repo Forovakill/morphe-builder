@@ -20,11 +20,13 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "both"
 version = "auto"
+patcher-args = """\
+  -OdarkThemeBackgroundColor=#181825 \
+  -OlightThemeBackgroundColor=#E6E9EF \
+  """
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
--OdarkThemeBackgroundColor=#181825
--OlightThemeBackgroundColor=#E6E9EF
 
 [Music]
 build-mode = "both"
@@ -41,10 +43,13 @@ rv-brand = "Morphe"
 build-mode = "both"
 version = "auto"
 arch = "both"
+patcher-args = """\
+  -OdarkThemeBackgroundColor=#181825 \
+  """
+
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
--OdarkThemeBackgroundColor=#181825
 
 [Reddit-Morphe]
 app-name = "Reddit"
