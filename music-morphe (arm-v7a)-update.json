@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches dev.3.mpp)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/Forovakill/morphe-builder/releases/download/15/music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches dev.4.mpp)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/Forovakill/morphe-builder/releases/download/16/music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/Forovakill/morphe-builder/update/build.md"
 }

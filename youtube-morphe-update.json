@@ -1,6 +1,6 @@
 {
-  "version": "v20.51.39 (patches dev.3.mpp)",
-  "versionCode": 15,
-  "zipUrl": "https://github.com/Forovakill/morphe-builder/releases/download/15/youtube-morphe-module-v20.51.39-all.zip",
+  "version": "v20.51.39 (patches dev.4.mpp)",
+  "versionCode": 16,
+  "zipUrl": "https://github.com/Forovakill/morphe-builder/releases/download/16/youtube-morphe-module-v20.51.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/Forovakill/morphe-builder/update/build.md"
 }
