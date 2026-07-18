@@ -21,8 +21,8 @@ rv-brand = "Morphe"
 build-mode = "both"
 version = "auto"
 patcher-args = """\
-  -OdarkThemeBackgroundColor=@android:color/system_neutral1_900 \
-  -OlightThemeBackgroundColor=@android:color/system_neutral1_100 \
+  -OdarkThemeBackgroundColor=#181825 \
+  -OlightThemeBackgroundColor=#E6E9EF \
   """
 included-patches = "'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -45,7 +45,7 @@ build-mode = "both"
 version = "auto"
 arch = "both"
 patcher-args = """\
-  -OdarkThemeBackgroundColor=@android:color/system_neutral1_900 \
+  -OdarkThemeBackgroundColor=#181825 \
   """
 included-patches = "'Theme'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
